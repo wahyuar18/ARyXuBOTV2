@@ -126,120 +126,123 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ╰──────[ 𝙮𝙓𝙪 𝘽𝙊𝙏 ]──────
 
 ╭────[ 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 ]────
-├ ◩ *Name : 𝙮𝙓𝙪 𝘽𝙊𝙏*
-├ ◩ *Owner : WahyuuAR*
-├ ◩ *Prefix : [#]*
-├ ◩ *Instagram : yuu_fck18*
+├ ◩ *Name* : ```𝙮𝙓𝙪 𝘽𝙊𝙏```
+├ ◩ *Owner* : ```WahyuuAR```
+├ ◩ *Create* : ```Affisjunianto```
+├ ◩ *Prefix* : ```[ ${prefix} ]```
+├ ◩ *Github* : https://github.com/wahyuar18/ARyXuBOTV2 
+├ ◩ *Instagram* : ```yuu_fck18```
 ╰────[ 𝗜𝗡𝗙𝗢 𝗕𝗢𝗧 ]────   
 
-    ■ 𝐌𝐀𝐊𝐄𝐑 𝐌𝐄𝐍𝐔
-    ❏ *${prefix}sticker*
-    ❏ *${prefix}vinta*
-    ❏ *${prefix}avengers*
-    ❏ *${prefix}summer*
-    ❏ *${prefix}sandwrite*
-    ❏ *${prefix}metaldark*
-    ❏ *${prefix}dropwater*
-    ❏ *${prefix}greenneon*
-    ❏ *${prefix}neontext*
-    ❏ *${prefix}sumery*
-    ❏ *${prefix}blood*
-    ❏ *${prefix}firework*
-    ❏ *${prefix}lava*
-    ❏ *${prefix}qrcode*
-    ❏ *${prefix}ninjalogo*
-    ❏ *${prefix}glitch*
-    ❏ *${prefix}wolflogo*
-    ❏ *${prefix}lionlogo*
-    ❏ *${prefix}jokerlogo*
-  ■ 𝐌𝐄𝐃𝐈𝐀 𝐌𝐄𝐍𝐔
-    ❏ *${prefix}toxic*     
-    ❏ *${prefix}quotes*
-    ❏ *${prefix}beritahoax*
-    ❏ *${prefix}brainly*
-    ❏ *${prefix}pinterest*
-    ❏ *${prefix}resepmasakan*
-    ❏ *${prefix}igstalk*
-    ❏ *${prefix}bitly*
+ ■ 𝐌𝐀𝐊𝐄𝐑 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}sticker*
+   ❏ *${prefix}vinta*
+   ❏ *${prefix}avengers*
+   ❏ *${prefix}summer*
+   ❏ *${prefix}sandwrite*
+   ❏ *${prefix}metaldark*
+   ❏ *${prefix}dropwater*
+   ❏ *${prefix}greenneon*
+   ❏ *${prefix}neontext*
+   ❏ *${prefix}sumery*
+   ❏ *${prefix}blood*
+   ❏ *${prefix}firework*   
+   ❏ *${prefix}lava*
+   ❏ *${prefix}qrcode*
+   ❏ *${prefix}ninjalogo*
+   ❏ *${prefix}glitch*
+   ❏ *${prefix}wolflogo*
+   ❏ *${prefix}lionlogo*
+   ❏ *${prefix}jokerlogo*
+    
+ ■ 𝐌𝐄𝐃𝐈𝐀 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}toxic*     
+   ❏ *${prefix}quotes*
+   ❏ *${prefix}beritahoax*
+   ❏ *${prefix}brainly*
+   ❏ *${prefix}pinterest*
+   ❏ *${prefix}resepmasakan*
+   ❏ *${prefix}igstalk*
+   ❏ *${prefix}bitly*
            
-   ■ 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔
-     ❏ *${prefix}mining*
-     ❏ *${prefix}bisakah*
-     ❏ *${prefix}kapankah*
-     ❏ *${prefix}apakah*
-     ❏ *${prefix}rate*
-     ❏ *${prefix}slap*
-     ❏ *${prefix}tampar*
-     ❏ *${prefix}moddroid*
-     ❏ *${prefix}happymod*
-     ❏ *${prefix}nangis*
-     ❏ *${prefix}cium*
-     ❏ *${prefix}peluk*
+ ■ 𝐅𝐔𝐍 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}mining*
+   ❏ *${prefix}bisakah*
+   ❏ *${prefix}kapankah*
+   ❏ *${prefix}apakah*
+   ❏ *${prefix}rate*
+   ❏ *${prefix}slap*
+   ❏ *${prefix}tampar*
+   ❏ *${prefix}moddroid*
+   ❏ *${prefix}happymod*
+   ❏ *${prefix}nangis*
+   ❏ *${prefix}cium*
+   ❏ *${prefix}peluk*
       
-   ■ 𝐌𝐔𝐓𝐔𝐀𝐋
-     ❏ *${prefix}mutual*
-     ❏ *${prefix}next*
-      
-   ■ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃
-     ❏ *${prefix}ytmp3*
-     ❏ *${prefix}ytmp4*
-     ❏ *${prefix}joox*
-       
-   ■ 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔
-     ❏ *${prefix}pokemon*
-     ❏ *${prefix}anjing*
-     ❏ *${prefix}blowjob*
-     ❏ *${prefix}nekonime*
-     ❏ *${prefix}kpop*
-     ❏ *${prefix}husbu*
-     ❏ *${prefix}shota*
-     ❏ *${prefix}ranime*
+ ■ 𝐌𝐔𝐓𝐔𝐀𝐋
+   ❏ *${prefix}mutual*
+   ❏ *${prefix}next*
+ 
+ ■ 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃
+   ❏ *${prefix}ytmp3*
+   ❏ *${prefix}ytmp4*
+   ❏ *${prefix}joox*
+ 
+ ■ 𝐍𝐒𝐅𝐖 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}pokemon*
+   ❏ *${prefix}anjing*
+   ❏ *${prefix}blowjob*
+   ❏ *${prefix}nekonime*
+   ❏ *${prefix}kpop*
+   ❏ *${prefix}husbu*
+   ❏ *${prefix}shota*
+   ❏ *${prefix}ranime*
             
-   ■ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔
-     ❏ *${prefix}hidetag*
-     ❏ *${prefix}grouplist*
-     ❏ *${prefix}level*
-     ❏ *${prefix}linkgc*
-     ❏ *${prefix}tagall*
-     ❏ *${prefix}setpp*
-     ❏ *${prefix}add*
-     ❏ *${prefix}kick*
-     ❏ *${prefix}setname*
-     ❏ *${prefix}setdesc*
-     ❏ *${prefix}demote*
-     ❏ *${prefix}promote*
-     ❏ *${prefix}listadmin*
-     ❏ *${prefix}group* [buka/tutup]
-     ❏ *${prefix}leveling* [enable/disable]
-     ❏ *${prefix}nsfw* [1/0]
-     ❏ *${prefix}simih* [1/0]
-     ❏ *${prefix}welcome* [1/0]
+ ■ 𝐆𝐑𝐎𝐔𝐏 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}hidetag*
+   ❏ *${prefix}grouplist*
+   ❏ *${prefix}level*
+   ❏ *${prefix}linkgc*
+   ❏ *${prefix}tagall*
+   ❏ *${prefix}setpp*
+   ❏ *${prefix}add*
+   ❏ *${prefix}kick*
+   ❏ *${prefix}setname*
+   ❏ *${prefix}setdesc*
+   ❏ *${prefix}demote*
+   ❏ *${prefix}promote*
+   ❏ *${prefix}listadmin*
+   ❏ *${prefix}group* [buka/tutup]
+   ❏ *${prefix}leveling* [enable/disable]
+   ❏ *${prefix}nsfw* [1/0]
+   ❏ *${prefix}simih* [1/0]
+   ❏ *${prefix}welcome* [1/0]
      
-   ■ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔
-     ❏ *${prefix}bc*
-     ❏ *${prefix}bcgc*
-     ❏ *${prefix}kickall*
-     ❏ *${prefix}setreply*
-     ❏ *${prefix}setprefix*
-     ❏ *${prefix}clearall*
-     ❏ *${prefix}block*
-     ❏ *${prefix}unblock*
-     ❏ *${prefix}leave*
-     ❏ *${prefix}event* [1/0]
-     ❏ *${prefix}clone
-     ❏ *${prefix}setppbot*
+■ 𝐎𝐖𝐍𝐄𝐑 𝐌𝐄𝐍𝐔
+   ❏ *${prefix}bc*
+   ❏ *${prefix}bcgc*
+   ❏ *${prefix}kickall*
+   ❏ *${prefix}setreply*
+   ❏ *${prefix}setprefix*
+   ❏ *${prefix}clearall*
+   ❏ *${prefix}block*
+   ❏ *${prefix}unblock*
+   ❏ *${prefix}leave*
+   ❏ *${prefix}event* [1/0]
+   ❏ *${prefix}clone*
+   ❏ *${prefix}setppbot*
      
-   ■ 𝐋𝐈𝐌𝐈𝐓
-     ❏ *${prefix}limit*
-     ❏ *${prefix}buylimit*
-     ❏ *${prefix}transfer*
-     ❏ *${prefix}dompet*
+■ 𝐋𝐈𝐌𝐈𝐓
+   ❏ *${prefix}limit*
+   ❏ *${prefix}buylimit*
+   ❏ *${prefix}transfer*
+   ❏ *${prefix}dompet*
 
-  𝑵𝑶𝑻𝑬 : 
-      *_Dont spam and call_*
-      *    *Langar??* 
+𝑵𝑶𝑻𝑬 : 
+     *_Dont spam and call_*
+     *_Langar??_*
     *BLOCK*
-    *    *Sekalian follow ig aing :D
+    *Sekalian follow ig aing :D*
     *_https://Instagram.com/yuu_fck18_* 
 `}
 
